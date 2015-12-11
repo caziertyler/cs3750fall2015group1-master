@@ -1,0 +1,6 @@
+/Users/dalbornoz/code/cs3750fall2015group1/RPGClasses/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/dalbornoz/code/cs3750fall2015group1/RPGClasses/bin/Release/RPGClasses.exe.config
+/Users/dalbornoz/code/cs3750fall2015group1/RPGClasses/bin/Release/RPGClasses.exe.mdb
+/Users/dalbornoz/code/cs3750fall2015group1/RPGClasses/bin/Release/RPGClasses.exe
+/Users/dalbornoz/code/cs3750fall2015group1/RPGClasses/obj/Release/RPGClasses.exe
+/Users/dalbornoz/code/cs3750fall2015group1/RPGClasses/obj/Release/RPGClasses.exe.mdb

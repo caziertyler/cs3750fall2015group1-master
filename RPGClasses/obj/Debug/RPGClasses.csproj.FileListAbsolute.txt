@@ -1,0 +1,12 @@
+C:\Users\Chris Strickland\Documents\CS 3280 C#\RPGClasses\bin\Debug\RPGClasses.exe.config
+C:\Users\Chris Strickland\Documents\CS 3280 C#\RPGClasses\obj\Debug\RPGClasses.csprojResolveAssemblyReference.cache
+C:\Users\Chris Strickland\Documents\CS 3280 C#\RPGClasses\bin\Debug\RPGClasses.exe
+C:\Users\Chris Strickland\Documents\CS 3280 C#\RPGClasses\bin\Debug\RPGClasses.pdb
+C:\Users\Chris Strickland\Documents\CS 3280 C#\RPGClasses\obj\Debug\RPGClasses.exe
+C:\Users\Chris Strickland\Documents\CS 3280 C#\RPGClasses\obj\Debug\RPGClasses.pdb
+C:\Users\Public\Documents\Unity Projects\DarkChasm.git\trunk\RPGClasses\bin\Debug\RPGClasses.exe.config
+C:\Users\Public\Documents\Unity Projects\DarkChasm.git\trunk\RPGClasses\bin\Debug\RPGClasses.exe
+C:\Users\Public\Documents\Unity Projects\DarkChasm.git\trunk\RPGClasses\bin\Debug\RPGClasses.pdb
+C:\Users\Public\Documents\Unity Projects\DarkChasm.git\trunk\RPGClasses\obj\Debug\RPGClasses.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Unity Projects\DarkChasm.git\trunk\RPGClasses\obj\Debug\RPGClasses.exe
+C:\Users\Public\Documents\Unity Projects\DarkChasm.git\trunk\RPGClasses\obj\Debug\RPGClasses.pdb
